@@ -1,6 +1,6 @@
-# hyper-dht-prom-alias-rpc
+# hyperdht-prom-alias-rpc
 
-[protomux-rpc](https://github.com/holepunchto/protomux-rpc/) for registering aliases with a [hyper-dht-prometheus](https://github.com/holepunchto/hyper-dht-prometheus) service.
+[protomux-rpc](https://github.com/holepunchto/protomux-rpc/) for registering aliases with a [hyperdht-prometheus](https://github.com/holepunchto/hyperdht-prometheus) service.
 
 ## Usage
 
@@ -9,7 +9,7 @@ See [./example.js](example.js)
 ## Install
 
 ```
-npm i hyper-dht-prom-alias-rpc
+npm i hyperdht-prom-alias-rpc
 ```
 
 ## API
